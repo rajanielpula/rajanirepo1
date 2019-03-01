@@ -5,4 +5,3 @@ master :: testbranch
 master :: test
 add new line
 added one more line
-stash test
